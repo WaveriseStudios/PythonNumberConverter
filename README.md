@@ -1,5 +1,6 @@
 # PythonNumberConverter
-A simple python script, made for testing purposes, to convert any number in DEC, BIN or HEX into any of DEC, BIN or HEX based on an enum.
+A simple python script, made for testing purposes, to convert any number in DEC, BIN or HEX into any of DEC, BIN or HEX based on an enum, not the most optimal one but I'll update it sometime...
+<br />
 Supported conversion types :
 - DEC_TO_BIN
 - DEC_TO_HEX
